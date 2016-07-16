@@ -1,143 +1,119 @@
 {
-        "type": "FeatureCollection",
-        "crs":
-        {
-            "type": "name",
-            "properties":
-            {
-                "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-            }
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "NAME": "America!",
+            "TEL": "3016860413",
+            "URL": "http://www.yelp.com/biz/america-fort-washington?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=ZRcR8P6AwDoHG2yValvDrQ",
+            "ADDRESS1": "144 National Plz",
+            "ADDRESS2": "Fort Washington, MD 20745",
+            "CITY": "Fort Washington",
+            "ZIP": "20745",
+            "rating_img_url": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+            "rating_img_url_small": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+            "categories": [
+                [
+                    "Shopping",
+                    "shopping"
+                ]
+            ],
+            "phone": "3016860413",
+            "snippet_text": "This store has upscale patriotic and DC items and souvenirs. Paradoxically, most of the products aren't produced in America.",
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/ZeviSlVvdE1IMkrf1QMPOg/ms.jpg",
+            "display_phone": "+1-301-686-0413",
+            "rating_img_url_large": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+            "id": "america-fort-washington",
+            "marker-symbol": "custom"
         },
-        "features":
-        [
-            {
-                "type": "Feature",
-                "properties":
-                {
-                    "NAME": "America!",
-                    "TEL": "3016860413",
-                    "URL": "http://www.yelp.com/biz/america-fort-washington?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=ZRcR8P6AwDoHG2yValvDrQ",
-                    "ADDRESS1": "144 National Plz",
-                    "ADDRESS2": "Fort Washington, MD 20745",
-                    "CITY": "Fort Washington",
-                    "ZIP": "20745",
-                    "rating_img_url": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
-                    "rating_img_url_small": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
-                    "categories":
-                    [
-                        [
-                            "Shopping",
-                            "shopping"
-                        ]
-                    ],
-                    "phone": "3016860413",
-                    "snippet_text": "This store has upscale patriotic and DC items and souvenirs. Paradoxically, most of the products aren't produced in America.",
-                    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/ZeviSlVvdE1IMkrf1QMPOg/ms.jpg",
-                    "display_phone": "+1-301-686-0413",
-                    "rating_img_url_large": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
-                    "id": "america-fort-washington",
-                    "marker-symbol": "custom"
-                },
-                "geometry":
-                {
-                    "type": "Point",
-                    "coordinates":
-                    [
-                        -77.0166277885437,
-                        38.7849924713373
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties":
-                {
-                    "NAME": "Pinktini Fashion Boutique",
-                    "TEL": "3015671107",
-                    "URL": "http://www.yelp.com/biz/pinktini-fashion-boutique-national-harbor?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=ZRcR8P6AwDoHG2yValvDrQ",
-                    "ADDRESS1": "144 Waterfront St",
-                    "ADDRESS2": "National Harbor, MD 20745",
-                    "CITY": "National Harbor",
-                    "ZIP": "20745",
-                    "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/f64056afac01/ico/stars/v1/stars_1.png",
-                    "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/74cb12ae7253/ico/stars/v1/stars_small_1.png",
-                    "categories":
-                    [
-                        [
-                            "Women's Clothing",
-                            "womenscloth"
-                        ],
-                        [
-                            "Accessories",
-                            "accessories"
-                        ]
-                    ],
-                    "phone": "3015671107",
-                    "snippet_text": "Visited this boutique, as it is walking distance to a large convention center and tourist district. It has some cute items, and I bought a dress here for...",
-                    "snippet_image_url": "https://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
-                    "display_phone": "+1-301-567-1107",
-                    "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/cc5d90a21966/ico/stars/v1/stars_large_1.png",
-                    "id": "pinktini-fashion-boutique-national-harbor",
-                    "marker-symbol": "custom"
-                },
-                "geometry":
-                {
-                    "type": "Point",
-                    "coordinates":
-                    [
-                        -77.0161154866219,
-                        38.7849012762308
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties":
-                {
-                    "NAME": "BicycleSPACE",
-                    "TEL": "2029620123",
-                    "URL": "http://www.yelp.com/biz/bicyclespace-washington-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=ZRcR8P6AwDoHG2yValvDrQ",
-                    "ADDRESS1": "440 K St NW",
-                    "ADDRESS2": "Washington, DC 20001",
-                    "CITY": "Washington",
-                    "ZIP": "20001",
-                    "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
-                    "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
-                    "categories":
-                    [
-                        [
-                            "Bikes",
-                            "bikes"
-                        ],
-                        [
-                            "Bike Repair/Maintenance",
-                            "bike_repair_maintenance"
-                        ],
-                        [
-                            "Tours",
-                            "tours"
-                        ]
-                    ],
-                    "phone": "2029620123",
-                    "snippet_text": "Bicyclespace shops are the best bike shops ever! BicycleSpace does so much for the community!
-
-    They're just very good people in general working on the bikes...",
-                    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2BmqIKtYfp8AFgdIXVGD9w/ms.jpg",
-                    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/BlvFGOtf7sNCxQNXJ2HKxA/ms.jpg",
-                    "display_phone": "+1-202-962-0123",
-                    "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
-                    "id": "bicyclespace-washington-2",
-                    "marker-symbol": "custom"
-                },
-                "geometry":
-                {
-                    "type": "Point",
-                    "coordinates":
-                    [
-                        -77.0171980209976,
-                        38.9022937813452
-                    ]
-                }
-            }
-        ]
-    }
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0166277885437,
+                38.7849924713373
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "NAME": "Pinktini Fashion Boutique",
+            "TEL": "3015671107",
+            "URL": "http://www.yelp.com/biz/pinktini-fashion-boutique-national-harbor?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=ZRcR8P6AwDoHG2yValvDrQ",
+            "ADDRESS1": "144 Waterfront St",
+            "ADDRESS2": "National Harbor, MD 20745",
+            "CITY": "National Harbor",
+            "ZIP": "20745",
+            "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/f64056afac01/ico/stars/v1/stars_1.png",
+            "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/74cb12ae7253/ico/stars/v1/stars_small_1.png",
+            "categories": [
+                [
+                    "Women's Clothing",
+                    "womenscloth"
+                ],
+                [
+                    "Accessories",
+                    "accessories"
+                ]
+            ],
+            "phone": "3015671107",
+            "snippet_text": "Visited this boutique, as it is walking distance to a large convention center and tourist district. It has some cute items, and I bought a dress here for...",
+            "snippet_image_url": "https://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+            "display_phone": "+1-301-567-1107",
+            "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/cc5d90a21966/ico/stars/v1/stars_large_1.png",
+            "id": "pinktini-fashion-boutique-national-harbor",
+            "marker-symbol": "custom"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0161154866219,
+                38.7849012762308
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "NAME": "BicycleSPACE",
+            "TEL": "2029620123",
+            "URL": "http://www.yelp.com/biz/bicyclespace-washington-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=ZRcR8P6AwDoHG2yValvDrQ",
+            "ADDRESS1": "440 K St NW",
+            "ADDRESS2": "Washington, DC 20001",
+            "CITY": "Washington",
+            "ZIP": "20001",
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+            "categories": [
+                [
+                    "Bikes",
+                    "bikes"
+                ],
+                [
+                    "Bike Repair/Maintenance",
+                    "bike_repair_maintenance"
+                ],
+                [
+                    "Tours",
+                    "tours"
+                ]
+            ],
+            "phone": "2029620123",
+            "snippet_text": "Bicyclespace shops are the best bike shops ever! BicycleSpace does so much for the community!They 're just very good people in general working on the bikes...",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2BmqIKtYfp8AFgdIXVGD9w/ms.jpg",
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/BlvFGOtf7sNCxQNXJ2HKxA/ms.jpg",
+            "display_phone": "+1-202-962-0123",
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+            "id": "bicyclespace-washington-2",
+            "marker-symbol": "custom"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0171980209976,
+                38.9022937813452
+            ]
+        }
+    }]
+}
